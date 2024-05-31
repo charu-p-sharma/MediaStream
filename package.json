@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shamahoque/mern-mediastream.git"
+    "url": "https://github.com/charu-p-sharma/MediaStream.git"
   },
-  "homepage": "https://github.com/shamahoque/mern-mediastream",
+  "homepage": "https://github.com/charu-p-sharma/MediaStream",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
